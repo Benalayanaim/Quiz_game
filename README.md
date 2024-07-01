@@ -11,3 +11,6 @@
 #So if there was 10 questions , we would say , hey , you got , you know , threee out of 10 or seven 
 
 #out of town or whatever. And maybee we'll even give them a precentage or something like that . 
+
+# Quiz_App is more Advanced than Quiz_Game 
+After Learn the OOP with python and how i can create an interface i use this Knowldege in this App
